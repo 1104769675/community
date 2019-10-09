@@ -13,5 +13,6 @@ public class QuestionDTO {
     private Integer creator;
     private String tag;
     private Integer viewCount;
+    private Integer commentCount;
     private User user;
 }
