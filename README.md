@@ -14,3 +14,5 @@
 ## 工具包
 [Git](https://git-scm.com/dowload)
 [VP](https://www.visual-paradigm.com)
+
+""mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate""
